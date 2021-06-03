@@ -1,0 +1,58 @@
+.ping{
+    width: 100%;
+    height: 270px;
+}
+.second{
+    border: solid 1px #bbbbbb;
+    display: flex;
+    align-items: center
+    border-top: 0;
+}
+.text{
+    margin: 0.3em 0;
+}
+.third{
+    border: solid 1px #bbbbbb;
+    border-top: 0;
+    border-bottom: 0;
+}
+.fourth{
+    padding-top: 0.2em;
+    padding-bottom: 0.1em;
+    border: solid 1px #bbbbbb;
+    border-top: 0;
+    /* border-bottom: 0; */
+
+}
+.img{
+    padding: 0;
+    padding-top: 1em;
+}
+h1{
+    font-family: 'Open Sans', sans-serif;
+}
+p{
+    font-family: 'Nunito Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 0.6;
+    margin-bottom: 0;
+}
+.para{
+    margin-top: 0.2em;
+}
+#matches{
+    display: inline-block;
+    width: 16%;
+}
+.fifth{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+.green{
+    color: green;
+}
+.red{
+    color: red;
+}
